@@ -11,7 +11,6 @@ surge_ruleset=📺 HBO Max,https://raw.githubusercontent.com/DivineEngine/Profil
 surge_ruleset=📺 Paramount+,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/ParamountPlus.list
 surge_ruleset=📷 Instagram,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Instagram.list
 surge_ruleset=🕹 Steam,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
-surge_ruleset=Emby,https://raw.githubusercontent.com/kehantian/ruleset/main/Emby?token=GHSAT0AAAAAABVAO5O2QU3XAXL4PULIQHTKYURBL3A
 surge_ruleset=📲 Telegram,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 surge_ruleset=🍎 苹果服务,rules/ConnersHua/Surge/Ruleset/Apple.list
 surge_ruleset=🔰 节点选择,rules/ConnersHua/Surge/Ruleset/Global.list
@@ -32,7 +31,6 @@ custom_proxy_group=📺 HBO Max`select`[]🔰 节点选择`[]✈ 手动选择`.*
 custom_proxy_group=📺 Paramount+`select`[]🔰 节点选择`[]✈ 手动选择`.*
 custom_proxy_group=📷 Instagram`select`[]🔰 节点选择`[]✈ 手动选择`.*
 custom_proxy_group=🕹 Steam`select`[]🔰 节点选择`[]✈ 手动选择`.*
-custom_proxy_group=emby`select`[]🔰 节点选择`[]✈ 手动选择`.*
 custom_proxy_group=🍎 苹果服务`select`[]🔰 节点选择`[]✈ 手动选择`.*`[]DIRECT
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]✈ 手动选择`.*`[]DIRECT
