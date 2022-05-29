@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/kehantian/Surge-Rules/main/Rules%20with%20Mult
 
 https://b.sub.tsutsu.cc
 
-https://sub.105755.best
+https://api.nameless13.com
+
+https://sublink.dev
+
 
 ⚠️***注意: 此规则配置文件只适用于Surge For Mac***
