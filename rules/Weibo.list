@@ -1,5 +1,6 @@
 # > Weibo
 USER-AGENT,Weibo*
+DOMAIN-KEYWORD
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
