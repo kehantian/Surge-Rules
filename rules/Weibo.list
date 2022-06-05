@@ -3,3 +3,11 @@ USER-AGENT,Weibo*
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
+IP-CIDR,123.126.45.198/8080,no-resolve
+IP-CIDR,123.126.43.263/443,no-resolve
+IP-CIDR,123.125.22.241/443,no-resolve
+IP-CIDR,123.125.23.27/443,no-resolve
+IP-CIDR,123.126.43.92/443,no-resolve
+IP-CIDR,39.173.101.100/443,no-resolve
+IP-CIDR,39.173.102.101/443,no-resolve
+IP-CIDR,36.150.79.242/443,no-resolve
