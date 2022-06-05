@@ -1,6 +1,6 @@
 # > Weibo
 USER-AGENT,Weibo*
-DOMAIN-KEYWORD
+DOMAIN-KEYWORD,weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
@@ -30,3 +30,4 @@ IP-CIDR,139.227.230.31/80,no-resolve
 IP-CIDR,139.227.230.32/80,no-resolve
 IP-CIDR,139.227.230.95/80,no-resolve
 IP-CIDR,139.227.230.0/80,no-resolve
+IP-CIDR,111.13.134.0/443,no-resolve
